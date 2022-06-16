@@ -1,0 +1,14 @@
+{
+  "labNumber": "341134",
+  "description": "Test Lab",
+  "labName": "341134 Test Lab",
+  "department":  "Oncology",
+  "contact":  "Dev Team",
+  "address": "21215 Highlands Ave",
+  "city": "Irvine",
+  "state": "Ca",
+  "postalCode": "92618",
+  "areaCode": "949",
+  "telephone": "500-1234",
+  "email":  "devteam@email.com"
+}
